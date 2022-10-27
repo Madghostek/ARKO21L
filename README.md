@@ -1,4 +1,4 @@
 # ARKO21L
-computer architecture projects backup
+computer architecture project backup
 
-the converter one is the most interesting
+converts image regions to BW
